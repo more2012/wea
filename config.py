@@ -5,9 +5,9 @@ import os
 from datetime import datetime, timedelta
 
 # NASA Earthdata Authentication
-NASA_TOKEN = "YOUR_NASA_EARTHDATA_TOKEN_HERE"  # Replace with your actual token
-NASA_USERNAME = "your_nasa_username"
-NASA_PASSWORD = "your_nasa_password"
+NASA_TOKEN = "eyJ0eXAiOiJKV1QiLCJvcmlnaW4iOiJFYXJ0aGRhdGEgTG9naW4iLCJzaWciOiJlZGxqd3RwdWJrZXlfb3BzIiwiYWxnIjoiUlMyNTYifQ.eyJ0eXBlIjoiVXNlciIsInVpZCI6Im1obWR3YWVsbWhkaSIsImV4cCI6MTc2NDY3ODA5OSwiaWF0IjoxNzU5NDk0MDk5LCJpc3MiOiJodHRwczovL3Vycy5lYXJ0aGRhdGEubmFzYS5nb3YiLCJpZGVudGl0eV9wcm92aWRlciI6ImVkbF9vcHMiLCJhY3IiOiJlZGwiLCJhc3N1cmFuY2VfbGV2ZWwiOjN9.gSPPSOcqi5wJqD-3s0vIIPX_fHnR9zTHzOfDXEp9iJmhIEt3IK47M6lKIizQIIAqIAHrx0ZN9UNt-Pdv5MVFqK5RZf6Vc4k6u_jbtSW0DvEPtF2qasjlGWLAEksWOnRXMPEla7w3h_TpJALBJjUV3SeHr_fekgqUjCxDZ9dDm8VbSEyqNULiAGP5TQD8dE687bzX92yjJc8S86-s8s_w1GAgnf-k39J6erPUdjv90FsH1fUjVMOK_X9woZLVWCVfX0vNHHLV2C19PsBQBVAAl86inZXUMnJ8AosAI05h2tTOxQi66TChWAsmpan5m36jnbGZumL--vMygSY66TzWFw"  # Replace with your actual token
+NASA_USERNAME = "mhmdwaelmhdi"
+NASA_PASSWORD = "Mr112233455#"
 
 # NASA API Endpoints (Token Required)
 NASA_ENDPOINTS = {
